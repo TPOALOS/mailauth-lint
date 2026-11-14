@@ -68,3 +68,7 @@ Exit codes: `0` nothing at or above `--fail-on`, `1` findings at or above `--fai
 - Key size comes from the DER structure only; the key itself is not validated as a real RSA key.
 - Guidance follows RFC 7208, RFC 7489 and RFC 6376/8301 as understood by the author; receivers differ in how strictly they behave, so treat warnings as advice.
 - Input is capped at 1 MiB and 5000 records.
+
+---
+
+**More tools by [TPOALOS](https://github.com/TPOALOS):** [dmarc-report](https://github.com/TPOALOS/dmarc-report) · [nginxcheck](https://github.com/TPOALOS/nginxcheck) · [cookiecheck](https://github.com/TPOALOS/cookiecheck) · [all 51 tools](https://tpoalos.github.io)
